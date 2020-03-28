@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hey world!
+athar here, i like different languages of computer 
